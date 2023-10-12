@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Write("Enter a directory path:");
+        Console.Write("Enter a directory path: ");
         string directoryPath = Console.ReadLine();
 
         if (Directory.Exists(directoryPath))
@@ -19,11 +19,11 @@ class Program
 
             CleanEmptyFolders(directoryPath);
 
-            Console.WriteLine("Directory optimization complete.");
+            Console.WriteLine("Directory optimization completed successfully!");
         }
         else
         {
-            Console.WriteLine("Directory not found.");
+            Console.WriteLine("Directory not found. Please, check your input again!.");
         }
     }
 
@@ -133,8 +133,8 @@ class Program
             case ".apk":
             case ".bat":
             //case ".bin":
-            case ".cgi":
-            case ".pl":
+            //case ".cgi":
+            //case ".pl":
             case ".com":
             case ".exe":
             case ".gadget":
@@ -169,6 +169,8 @@ class Program
             case ".aspx":
             case ".cer":
             case ".cfm":
+            case ".cgi":
+            //case ".pl":
             case ".css":
             case ".htm":
             case ".html":
@@ -190,7 +192,7 @@ class Program
 
             case ".c":
             //case ".cgi":
-            //case ".pl":
+            case ".pl":
             case ".class":
             case ".cpp":
             case ".cs":

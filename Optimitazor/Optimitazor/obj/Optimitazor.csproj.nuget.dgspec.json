@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenna\\source\\repos\\New folder\\Optimitazor\\Optimitazor\\Optimitazor.csproj": {}
+    "C:\\Users\\kenna\\source\\repos\\Optimitazor project\\Optimitazor\\Optimitazor\\Optimitazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenna\\source\\repos\\New folder\\Optimitazor\\Optimitazor\\Optimitazor.csproj": {
+    "C:\\Users\\kenna\\source\\repos\\Optimitazor project\\Optimitazor\\Optimitazor\\Optimitazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenna\\source\\repos\\New folder\\Optimitazor\\Optimitazor\\Optimitazor.csproj",
+        "projectUniqueName": "C:\\Users\\kenna\\source\\repos\\Optimitazor project\\Optimitazor\\Optimitazor\\Optimitazor.csproj",
         "projectName": "Optimitazor",
-        "projectPath": "C:\\Users\\kenna\\source\\repos\\New folder\\Optimitazor\\Optimitazor\\Optimitazor.csproj",
+        "projectPath": "C:\\Users\\kenna\\source\\repos\\Optimitazor project\\Optimitazor\\Optimitazor\\Optimitazor.csproj",
         "packagesPath": "C:\\Users\\kenna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenna\\source\\repos\\New folder\\Optimitazor\\Optimitazor\\obj\\",
+        "outputPath": "C:\\Users\\kenna\\source\\repos\\Optimitazor project\\Optimitazor\\Optimitazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kenna\\AppData\\Roaming\\NuGet\\NuGet.Config",
